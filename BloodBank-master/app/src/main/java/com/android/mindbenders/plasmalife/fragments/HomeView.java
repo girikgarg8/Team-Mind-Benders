@@ -30,14 +30,6 @@ import com.google.firebase.database.ValueEventListener;
 import java.util.ArrayList;
 import java.util.List;
 
-
-/***
- Project Name: BloodBank
- Project Date: 10/12/18
- Created by: imshakil
- Email: mhshakil_ice_iu@yahoo.com
- ***/
-
 public class HomeView extends Fragment {
 
     private View view;
@@ -70,7 +62,7 @@ public class HomeView extends Fragment {
         pd.setCanceledOnTouchOutside(false);
 
         mAuth = FirebaseAuth.getInstance();
-        getActivity().setTitle("Blood Point");
+        getActivity().setTitle("Plasma Life");
 
         restAdapter = new BloodRequestAdapter(postLists);
         RecyclerView.LayoutManager pmLayout = new LinearLayoutManager(getContext());
