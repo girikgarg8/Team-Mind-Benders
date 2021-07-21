@@ -17,10 +17,4 @@ Included:
 - Google Maps Api
 - Android Studio IDE
 
-![](https://img.shields.io/github/stars/imshakil/BloodBank.svg)
-![](https://img.shields.io/github/forks/imshakil/BloodBank.svg)
-[![HitCount](http://hits.dwyl.io/imshakil/BloodBank.svg)](http://hits.dwyl.io/imshakil/BloodBank)
-![](https://img.shields.io/github/tag/imshakil/BloodBank.svg) 
-![](https://img.shields.io/github/v/release/imshakil/BloodBank.svg) 
-![](https://img.shields.io/github/issues/imshakil/BloodBank.svg) 
 
