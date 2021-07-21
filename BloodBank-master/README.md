@@ -17,11 +17,6 @@ Included:
 - Google Maps Api
 - Android Studio IDE
 
-### Preview:
-<img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/spalsh.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank2.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank6.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank3.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank4.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank1.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank5.png" alt="Splash Screen" width="100" height="200" /> 
-
-
-
 ![](https://img.shields.io/github/stars/imshakil/BloodBank.svg)
 ![](https://img.shields.io/github/forks/imshakil/BloodBank.svg)
 [![HitCount](http://hits.dwyl.io/imshakil/BloodBank.svg)](http://hits.dwyl.io/imshakil/BloodBank)
