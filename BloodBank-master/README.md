@@ -14,7 +14,7 @@ Included:
 ### Tools used
 - Firebase Database
 - Firebase Authentication
-- Google Maps Api
+- Google Maps API
 - Android Studio IDE
 
 
