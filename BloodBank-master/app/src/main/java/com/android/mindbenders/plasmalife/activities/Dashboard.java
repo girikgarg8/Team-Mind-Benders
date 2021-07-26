@@ -22,7 +22,6 @@ import com.android.mindbenders.plasmalife.fragments.AboutUs;
 import com.android.mindbenders.plasmalife.fragments.AchievmentsView;
 import com.android.mindbenders.plasmalife.fragments.BloodInfo;
 import com.android.mindbenders.plasmalife.fragments.HomeView;
-import com.android.mindbenders.plasmalife.fragments.NearByHospitalActivity;
 import com.android.mindbenders.plasmalife.fragments.SearchDonorFragment;
 import com.android.mindbenders.plasmalife.viewmodels.UserData;
 import com.google.firebase.auth.FirebaseAuth;
