@@ -1,0 +1,2 @@
+# Referenced at C:\Users\Home\AndroidStudioProjects\BloodBank-master\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }

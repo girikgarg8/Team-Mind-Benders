@@ -17,4 +17,3 @@ Included:
 - Google Maps API
 - Android Studio IDE
 
-

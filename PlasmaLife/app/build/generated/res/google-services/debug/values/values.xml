@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">198738125551-8raqnto4ig4ae1bt7k4dnpcksq4s6v2s.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://plasma-life-b74aa-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">198738125551</string>
+    <string name="google_api_key" translatable="false">AIzaSyCm7ORXRuS3S5nrQD7Ms0QChGwj7rEOOeE</string>
+    <string name="google_app_id" translatable="false">1:198738125551:android:b81de92a01bd307b21f11a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCm7ORXRuS3S5nrQD7Ms0QChGwj7rEOOeE</string>
+    <string name="google_storage_bucket" translatable="false">plasma-life-b74aa.appspot.com</string>
+    <string name="project_id" translatable="false">plasma-life-b74aa</string>
+</resources>
